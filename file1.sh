@@ -1,6 +1,6 @@
 
 #!/bin/bash
-mkdir dir{1..3}
+mkdir dir1 dir2 dir3
 cd dir1
 touch f1 f2 f3
 cd ..
